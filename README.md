@@ -17,3 +17,5 @@ This is a simple Python project to calculate student results using CSV data.
    pip install pandas
 3. Run:
    python student_result.py
+## Update
+This update is made by Kunal through a pull request.
